@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Flash Application Executer
+Name[tr]=Flash Uygulama Açıcısı
+Comment=Opens most common offline flash files in Firefox
+Comment[tr]=En çok kullanılan flash dosylarını Firefox ile açar
+Exec=/usr/lib/firefox-esr/firefox-esr %u
+Icon=flash-player-properties
+Terminal=false
+Type=Application
+NoDisplay=true
+Categories=System;Settings;
+MimeType=application/x-shockwave-flash

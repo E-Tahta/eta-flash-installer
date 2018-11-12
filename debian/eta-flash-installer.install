@@ -3,6 +3,7 @@ usr/lib/kde4/kcm_adobe_flash_player.so
 usr/lib/mozilla/plugins/libflashplayer.so
 usr/lib64/kde4/kcm_adobe_flash_player.so
 usr/share/applications/flash-player-properties.desktop
+usr/share/applications/eta-flash-installer.desktop
 usr/share/icons/hicolor/16x16/apps/flash-player-properties.png
 usr/share/icons/hicolor/22x22/apps/flash-player-properties.png
 usr/share/icons/hicolor/16x16/apps/flash-player-properties.png
